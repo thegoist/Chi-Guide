@@ -16,9 +16,9 @@ Existing backbone-level diffusion models for antibody design discard side-chain 
 
 ## CDR Design Example
 
-Representative CDR design on the SARS-CoV-2 RBD complex (PDB: 7CHB). Reference structures are shown in red and Chi-Guide designs in cyan for all six CDR loops, with substituted residues highlighted.
+CDR-H3 loop conformations generated at guidance scales w ∈ {0.0, 2.5, 5.0, 7.5}, overlaid on the reference structure (gray). As guidance scale increases, the loop progressively achieves lower binding energy (ΔΔG).
 
-![design](c7.5g40.png)
+![design](cdrh3.png)
 
 ---
 
