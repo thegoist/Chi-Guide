@@ -8,7 +8,7 @@ Chi-Guide is a diffusion-based framework for antigen-specific antibody CDR desig
 
 Existing backbone-level diffusion models for antibody design discard side-chain information during generation, limiting both structural quality and the ability to apply gradient-based property guidance. Chi-Guide addresses this by jointly diffusing backbone geometry and side-chain torsion angles ($\chi_1$–$\chi_4$), providing differentiable atomic coordinates at every denoising step. A lightweight classifier trained on noisy intermediate states steers sampling toward improved binding affinity without modifying the base generative model.
 
-![method](method.png)
+![method](main.png)
 
 ---
 
