@@ -12,8 +12,6 @@ Existing backbone-level diffusion models for antibody design discard side-chain 
 
 ---
 
----
-
 ## CDR Design Example
 
 CDR-H3 loop conformations generated at guidance scales w ∈ {0.0, 2.5, 5.0, 7.5}, overlaid on the reference structure (gray). As guidance scale increases, the loop progressively achieves lower binding energy (ΔΔG).
